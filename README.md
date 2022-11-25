@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kamil Petryniak
+#👋 Hi, I’m Kamil Petryniak
 ##About me
 I am self-taught quick learner looking forward to further develop new skills and gain more valuable experience as developer
 After 6 years of experience in the field of Civil Engineering, where I was involved in design of various constructions, created detailed 3D BIM models and finally prepared documentation and drawings I decided that it is time for a change.
