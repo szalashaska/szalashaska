@@ -27,6 +27,14 @@ Harvard's CS50 courses:
 - [CS50's Introduction to Computer Science](https://certificates.cs50.io/af44ea8c-2ff8-44ed-a102-cfa8e22f8493.pdf?size=letter)
 - [CS50's Web Programming with Python and JavaScript](https://certificates.cs50.io/c83d4b4b-b5a1-45d4-bd54-7724ddd6c816.pdf?size=letter)
 
+## 📺 Filmed projects from CS50's course
+- [Final project - My Vertical World](https://www.youtube.com/watch?v=fPPiosaJlfs)
+- [Final project - Memory](https://www.youtube.com/watch?v=RBGItvYAfps)
+- [Social network](https://studio.youtube.com/video/cprYqaqEeLQ/edit)
+- [Commerce](https://www.youtube.com/watch?v=qOzZFf7L9hU)
+- [Wiki](https://www.youtube.com/watch?v=ZF8ZSmZNTQI)
+- [Search](https://www.youtube.com/watch?v=0Nkox1YB0OA)
+
 ## 🚀 Others
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning python.
