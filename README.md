@@ -30,7 +30,7 @@ Harvard's CS50 courses:
 ## 📺 Filmed projects from CS50's course
 - [Final project - My Vertical World](https://www.youtube.com/watch?v=fPPiosaJlfs)
 - [Final project - Memory](https://www.youtube.com/watch?v=RBGItvYAfps)
-- [Social network](https://studio.youtube.com/video/cprYqaqEeLQ/edit)
+- [Social network](https://youtu.be/cprYqaqEeLQ)
 - [Commerce](https://www.youtube.com/watch?v=qOzZFf7L9hU)
 - [Wiki](https://www.youtube.com/watch?v=ZF8ZSmZNTQI)
 - [Search](https://www.youtube.com/watch?v=0Nkox1YB0OA)
