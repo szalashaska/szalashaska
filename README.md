@@ -1,6 +1,6 @@
--👋 Hi, I’m Kamil Petryniak
+# 👋 Hi, I’m Kamil Petryniak
 
--About me
+## About me
 I am self-taught quick learner looking forward to further develop new skills and gain more valuable experience as developer
 After 6 years of experience in the field of Civil Engineering, where I was involved in design of various constructions, created detailed 3D BIM models and finally prepared documentation and drawings I decided that it is time for a change.
 
@@ -8,7 +8,7 @@ I was always interested in new technologies and computer science. I decided to g
 
 As a frontend developer my primary focus is on JavaScript and Python.
 
--Educational background
+## Educational background
 From 2011 to 2017 I was studying at Lodz University of Technology, faculty of Civil Engineering. As a result I obtained master's degree. For a semester between 2015/2016 I took part in "Erasmus" - students exchange program at Instituto Superior de Engenharia de Lisboa, Portugal.
 In years 2021 and 2022 I participated and completed Harvard's CS50 courses.
 
