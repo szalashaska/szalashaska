@@ -9,8 +9,11 @@ I was always interested in new technologies and computer science. I decided to g
 As a frontend developer my primary focus is on JavaScript and Python.
 
 ## Educational background
-From 2011 to 2017 I was studying at Lodz University of Technology, faculty of Civil Engineering. As a result I obtained master's degree. For a semester between 2015/2016 I took part in "Erasmus" - students exchange program at Instituto Superior de Engenharia de Lisboa, Portugal.
-In years 2021 and 2022 I participated and completed Harvard's CS50 courses.
+Master's degree at Lodz University of Technology, faculty of Civil Engineering.
+Harvard's CS50 courses:
+[CS50's Introduction to Computer Science](https://certificates.cs50.io/af44ea8c-2ff8-44ed-a102-cfa8e22f8493.pdf?size=letter)
+[CS50's Web Programming with Python and JavaScript](https://certificates.cs50.io/c83d4b4b-b5a1-45d4-bd54-7724ddd6c816.pdf?size=letter)
+
 
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning python.
