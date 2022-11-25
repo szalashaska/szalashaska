@@ -20,8 +20,6 @@ As a frontend developer my primary focus is on JavaScript and Python.
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <br />
 
-#
-
 ## 👨🏻‍🎓 Educational background
 Master's degree at Lodz University of Technology, faculty of Civil Engineering.
 Harvard's CS50 courses:
@@ -35,6 +33,9 @@ Harvard's CS50 courses:
 - [Commerce](https://www.youtube.com/watch?v=qOzZFf7L9hU)
 - [Wiki](https://www.youtube.com/watch?v=ZF8ZSmZNTQI)
 - [Search](https://www.youtube.com/watch?v=0Nkox1YB0OA)
+
+# 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szalashaska)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Others
 - 👀 I’m interested in web development.
