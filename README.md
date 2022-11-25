@@ -1,4 +1,4 @@
-[](https://github.com/szalashaska/szalashaska/blob/main/banner.png)
+![](https://github.com/szalashaska/szalashaska/blob/main/banner.png)
 # 👋 Hi, I’m Kamil Petryniak
 
 ## 👨🏻‍💻 About me
