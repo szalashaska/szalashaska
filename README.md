@@ -44,6 +44,6 @@ Harvard's CS50 courses:
 
 ## 🚀 Others
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning nodejs.
 - ⚡ Besides coding I like climbing, trekking, hiking, playing guitar and traveling.
 - 📫 How to reach me: kamilpetryniak@gmail.com
