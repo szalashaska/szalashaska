@@ -7,7 +7,7 @@ After 6 years of experience in the field of Civil Engineering, where I was invol
 
 I was always interested in new technologies and computer science. I decided to give it a try and took Harvard's CS50 course. After a few courses, lots of tutorials and first commercial experience I know that it was the best decision I could made.
 
-As a frontend developer my primary focus is on JavaScript and Python.
+As a developer my primary focus is on JavaScript and Python.
 
 
 ## 🧰 Languages and Tools
@@ -44,6 +44,5 @@ Harvard's CS50 courses:
 
 ## 🚀 Others
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning nodejs.
 - ⚡ Besides coding I like climbing, trekking, hiking, playing guitar and traveling.
 - 📫 How to reach me: kamilpetryniak@gmail.com
