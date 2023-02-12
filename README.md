@@ -3,12 +3,11 @@
 
 ## 👨🏻‍💻 About me
 I am self-taught quick learner looking forward to further develop new skills and gain more valuable experience as developer.
-After 6 years of experience in the field of Civil Engineering, where I was involved in design of various constructions, created detailed 3D BIM models and prepared documentation and drawings I decided that it is time for a change.
+After 5 years of experience in the field of Civil Engineering, where I was involved in design of various constructions, created detailed 3D BIM models, prepared documentation and drawings i realised that it just might not be it.
 
-I was always interested in new technologies and computer science. I decided to give it a try and took Harvard's CS50 course. After a few courses, lots of tutorials and first commercial experience I know that it was the best decision I could made.
+Since I was always drawn towards new technologies and tech innovations I decided to give it a try and took Harvard's CS50 course. And just like that I found something that brings me joy, motivation and fun. After a few more courses, lots of tutorials and first commercial experience I am sure that I made the best decision possible.
 
 As a developer my primary focus is on JavaScript and Python.
-
 
 ## 🧰 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
