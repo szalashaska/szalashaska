@@ -45,3 +45,4 @@ Harvard's CS50 courses:
 - 👀 I’m interested in web development.
 - ⚡ Besides coding I like climbing, trekking, hiking, playing guitar and traveling.
 - 📫 How to reach me: kamilpetryniak@gmail.com
+- 🚀🚀🚀 check out [my portfolio website](https://szalashaska.github.io/my-homepage/)! 🚀🚀🚀
