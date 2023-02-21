@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About me
 I am self-taught quick learner looking forward to further develop new skills and gain more valuable experience as developer.
-After 5 years of experience in the field of Civil Engineering, where I was involved in design of various constructions, created detailed 3D BIM models, prepared documentation and drawings i realised that it just might not be it.
+After 5 years of experience in the field of Civil Engineering, where I was involved in design of various constructions, created detailed 3D BIM models, prepared documentation and drawings I realised that it just might not be it.
 
 Since I was always drawn towards new technologies and tech innovations I decided to give it a try and took Harvard's CS50 course. And just like that I found something that brings me joy, motivation and fun. After a few more courses, lots of tutorials and first commercial experience I am sure that I made the best decision possible.
 
@@ -45,4 +45,5 @@ Harvard's CS50 courses:
 - 👀 I’m interested in web development.
 - ⚡ Besides coding I like climbing, trekking, hiking, playing guitar and traveling.
 - 📫 How to reach me: kamilpetryniak@gmail.com
-- 🚀🚀🚀 check out [my portfolio website](https://szalashaska.github.io/my-homepage/)! 🚀🚀🚀
+
+🚀🚀🚀 check out [my portfolio website](https://szalashaska.github.io/my-homepage/)! 🚀🚀🚀
